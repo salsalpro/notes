@@ -41,8 +41,8 @@ with yarn
 ```
 yarn install
 ```
-with bun
 
+with bun
 ```
 bun i
 ```
@@ -50,10 +50,20 @@ bun i
 Run & Start Project
 
 with npm
+```
 npm run dev
+```
+
 with pnpm
+```
 pnpm run dev
+```
 with yarn
+
+```
 yarn run dev
+```
 with bun
+```
 bun run dev
+```
