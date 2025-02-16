@@ -24,5 +24,5 @@ A simple Notes Manager web application built using React, IndexedDB, Local Stora
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/your-username/notes-manager.git
+   git clone https://github.com/salsalpro/notes
 q
