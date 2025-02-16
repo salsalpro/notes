@@ -30,7 +30,8 @@ A simple Notes Manager web application built using React, IndexedDB, Local Stora
 Installing All Packages:
 
 with npm
-`npm i`
+```bash
+npm i
 
 with pnpm
       ```bash
