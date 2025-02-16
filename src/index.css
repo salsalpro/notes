@@ -1,0 +1,33 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: 'Vazir';
+  src: url('/fonts/Vazir.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+body{
+  direction: rtl;
+  font-family: 'Vazir';
+}
+
+::-webkit-scrollbar {
+  width: 5px; 
+  height: 5px; 
+}
+
+::-webkit-scrollbar-track {
+  background: #f1f1f1; 
+}
+
+::-webkit-scrollbar-thumb {
+  background: #888; 
+  border-radius: 10px; 
+}
+
+.swal-footer{
+  text-align: center;
+}
