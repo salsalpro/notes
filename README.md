@@ -36,14 +36,17 @@ with npm
 with pnpm
       ```bash
       pnpm install
+       ```
 
 with yarn
       ```bash
       yarn install
+       ```
 
 with bun
       ```bash
       bun i
+       ```
 
 
 
@@ -56,10 +59,12 @@ with npm
 with pnpm
       ```bash
       pnpm run dev
+ ```
 
 with yarn
       ```bash
       yarn run dev
+       ```
 
 with bun
      ```bash
