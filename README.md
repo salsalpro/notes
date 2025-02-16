@@ -33,10 +33,21 @@ with npm
   npm i
 ```
 
+
+
+
+
+
+
+
+
+
+
 with pnpm
+
       ```bash
       pnpm install
-       ```
+      ```
 
 with yarn
       ```bash
