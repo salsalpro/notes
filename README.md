@@ -40,9 +40,8 @@ with npm
 
 with pnpm
 
-      ```
+   
       pnpm install
-      ```
 
 with yarn
       ```bash
