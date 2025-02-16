@@ -38,14 +38,9 @@ with npm
 
 
 
-
-
-
-
-
 with pnpm
 
-      ```bash
+      ```
       pnpm install
       ```
 
