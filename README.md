@@ -28,6 +28,21 @@ A simple Notes Manager web application built using React, IndexedDB, Local Stora
 
 Installing All Packages:
 
+
+To run project use just one bottom line  
+![](https://img.shields.io/badge/npm-CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+```bash
+  npm run dev
+```
+![](https://img.shields.io/badge/Yarn-2C8EBB.svg?style=for-the-badge&logo=Yarn&logoColor=white)
+```bash
+  yarn run dev
+```
+![](https://img.shields.io/badge/Bun-000000.svg?style=for-the-badge&logo=Bun&logoColor=white)
+```bash
+  bun run dev
+```
+
 with npm
 ```bash
   npm i
@@ -35,17 +50,15 @@ with npm
 
 
 
-
-
-
 with pnpm
+      ```bash
       pnpm install
 
 with yarn
-      yarn install
+      ```yarn install
 
 with bun
-      bun i
+      ```bun i
 
 
 Run Project
