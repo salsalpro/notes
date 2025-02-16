@@ -25,34 +25,41 @@ A simple Notes Manager web application built using React, IndexedDB, Local Stora
 
    ```bash
    git clone https://github.com/salsalpro/notes
-q
 
 
 Installing All Packages:
 
 with npm
-npm i
+   ```bash
+   npm i
 
 with pnpm
-pnpm install
+   ```bash
+   pnpm install
 
 with yarn
-yarn install
+   ```bash
+   yarn install
 
 with bun
-bun i
+   ```bash
+   bun i
 
 
 
 Run Project
 with npm
-npm run dev
+   ```bash
+   npm run dev
 
 with pnpm
-pnpm run dev
+   ```bash
+   pnpm run dev
 
 with yarn
-yarn run dev
+   ```bash
+   yarn run dev
 
 with bun
-bun run dev
+   ```bash
+   bun run dev
