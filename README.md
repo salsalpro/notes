@@ -39,20 +39,13 @@ with npm
 
 
 with pnpm
-
-   
       pnpm install
 
 with yarn
-      ```bash
       yarn install
-       ```
 
 with bun
-      ```bash
       bun i
-       ```
-
 
 
 Run Project
